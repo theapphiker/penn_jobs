@@ -18,3 +18,9 @@ Please read Al Sweigart's <a href='https://github.com/asweigart/ezgmail'>documen
 <b>Firefox</b>
 
 These scripts require having the <a href='https://www.mozilla.org/en-US/firefox/new/'>Firefox web browser</a> installed. The scripts could be modified to work with other web browsers.
+
+<h2>Example Output</h2>
+
+The user should receive an email with results similar to the below picture.
+![example_output](https://github.com/theapphiker/penn_jobs/assets/84999858/eb4013c0-80aa-4cb2-93c2-82cdb8436380)
+
