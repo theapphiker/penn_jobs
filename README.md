@@ -21,6 +21,10 @@ Please read Al Sweigart's <a href='https://github.com/asweigart/ezgmail'>documen
 
 These scripts require having the <a href='https://www.mozilla.org/en-US/firefox/new/'>Firefox web browser</a> installed on your system. The scripts could be modified to work with other web browsers.
 
+<h2>Schedule Python Scripts to Run Daily</h2>
+
+I have scheduled these scripts to run daily on my system. Please see <a href='https://www.geeksforgeeks.org/schedule-python-script-using-windows-scheduler/'>GeeksforGeeks instructions</a> for one way to do this.
+
 <h2>Example Output</h2>
 
 The user should receive an email with results similar to the below picture.
