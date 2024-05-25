@@ -15,7 +15,7 @@ If you have PIP installed, type: `pip install -r requirements.txt` from the comm
 
 <b>EZGmail</b>
 
-Please read Al Sweigart's <a href='https://github.com/asweigart/ezgmail'>documentation and instructions</a> for installing and setting up EZGmail to allow your Python script to access a Gmail account.
+Please read Al Sweigart's <a href='https://github.com/asweigart/ezgmail'>documentation and instructions</a> for setting up EZGmail to allow your Python script to access a Gmail account.
 
 <b>Firefox</b>
 
