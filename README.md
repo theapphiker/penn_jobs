@@ -11,13 +11,15 @@ Collection of scripts that scrape Pennsylvania-based jobs of interest based on k
 <li>ezgmail</li>
 </ul>
 
+If you have PIP installed, type: `pip install -r requirements.txt` from the command line and your system should install all required modules.
+
 <b>EZGmail</b>
 
 Please read Al Sweigart's <a href='https://github.com/asweigart/ezgmail'>documentation and instructions</a> for installing and setting up EZGmail to allow your Python script to access a Gmail account.
 
 <b>Firefox</b>
 
-These scripts require having the <a href='https://www.mozilla.org/en-US/firefox/new/'>Firefox web browser</a> installed. The scripts could be modified to work with other web browsers.
+These scripts require having the <a href='https://www.mozilla.org/en-US/firefox/new/'>Firefox web browser</a> installed on your system. The scripts could be modified to work with other web browsers.
 
 <h2>Example Output</h2>
 
